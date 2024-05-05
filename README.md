@@ -1,2 +1,2 @@
 # CRUD-PHP-Basic-mahasiswa
-CRUD on MySQL with PHP, basic code
+Projek ini berdasarkan tugas final matakuliah Introduction to Data and Information Management
