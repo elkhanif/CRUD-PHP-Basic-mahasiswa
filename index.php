@@ -34,8 +34,7 @@
             echo "<td>" . $mhs['jurusan'] . "</td>";
             echo "<td>
                     <a href='edit_mahasiswa.php?nim=" . $mhs['nim'] . "'>Edit</a>
-                    <a href='hapus_mahasiswa.php?nim=" . $mhs['nim'] . "' onclick=\"return confirm('
-                    Apakah Anda yakin ingin menghapus data ini?');\">Hapus</a>
+                    <a href='hapus_mahasiswa.php?nim=" . $mhs['nim'] . "' onclick=\"return confirm('Apakah Anda yakin ingin menghapus data ini?');\">Hapus</a>
                   </td>";
             echo "</tr>";
         }
